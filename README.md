@@ -11,3 +11,5 @@ This C++ program implements a tour management system using a doubly linked list 
 ### Program#04 - Stacks
 This C++ program simulates a tour booking system using a stack. It allows users to add, remove, view, search, and update tour bookings. The Stack class manages tour information, including ID, origin, destination, passenger details, and price. It calculates prices based on destination and age, and provides error handling for stack operations and invalid inputs. The main function presents a menu-driven interface for user interaction with the stack.
 ### Program#05 - Queues
+This C++ program simulates a tour booking system using a queue data structure. It manages tour information, including ID, origin, destination, passenger details, and price, with calculations based on destination and age. The Queue class provides functionalities to add, remove, view, search, and update tour bookings, adhering to the First-In-First-Out (FIFO) principle. The main function offers a menu-driven interface, allowing users to interact with the queue, handle errors, and exit the system.
+### Program#06 - Binary Search
