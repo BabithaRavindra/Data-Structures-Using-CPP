@@ -17,3 +17,4 @@ This C++ program simulates a tour booking system using a queue data structure. I
 ### Program #07 - Bubble & Selection Sort
 "This C++ program manages tour bookings using a FIFO queue, storing tour IDs, destinations, passenger details, and dynamic prices. It offers enqueue, dequeue, peek, and display operations. Bookings can be searched by position, ID, or name, and updated. Sorting (Bubble/Selection) enhances ID-based searches. Robust error handling and color-coded output improve usability.
 ### Program#08 - Quick Sort
+This program is built on a queue-based structure and offers Quick Sort as an advanced sorting option. With an intuitive menu-driven sub-menu, users can choose to sort bookings based on Tour ID, Passenger's Name, Passenger's Age, Origin, Destination, or Price. The dynamic sorting ensures efficient organization, making it easier to manage and retrieve tour bookings effortlessly.
