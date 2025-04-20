@@ -18,3 +18,13 @@ This C++ program simulates a tour booking system using a queue data structure. I
 This C++ program manages tour bookings using a FIFO queue, storing tour IDs, destinations, passenger details, and dynamic prices. It offers enqueue, dequeue, peek, and display operations. Bookings can be searched by position, ID, or name, and updated. Sorting (Bubble/Selection) enhances ID-based searches. Robust error handling and color-coded output improve usability.
 ### Program#08 - Quick Sort
 This program is built on a queue-based structure and offers Quick Sort as an advanced sorting option. With an intuitive menu-driven sub-menu, users can choose to sort bookings based on Tour ID, Passenger's Name, Passenger's Age, Origin, Destination, or Price. The dynamic sorting ensures efficient organization, making it easier to manage and retrieve tour bookings effortlessly.
+# Skills
+![Static Badge](https://img.shields.io/badge/C%2B%2B%20Proficiency-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Data%20Structures-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/System%20Implementation-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Menu%20Driven%20Interface-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Error%20Handling-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Data%20Management-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Dynamic%20Memory%20Allocation-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Performance%20Optimization-%2387CEFA?style=for-the-badge&logoColor=%23ffffff)
